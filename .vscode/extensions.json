@@ -2,5 +2,8 @@
   "recommendations": [
     "graphql.vscode-graphql",
     "shopify.polaris-for-vscode",
+    "lokalise.i18n-ally",
+    "Shopify.theme-check-vscode",
+    "prisma.prisma"
   ]
 }

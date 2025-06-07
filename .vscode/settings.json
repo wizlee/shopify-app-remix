@@ -1,0 +1,18 @@
+{
+		"terminal.integrated.env.osx": {
+			"BASH_INIT_COMMAND": "conda activate node22"
+		},
+		"editor.tabSize": 2,
+		"editor.formatOnSave": true,
+		"editor.defaultFormatter": "Shopify.polaris-for-vscode",
+		"[liquid]": {
+			"editor.defaultFormatter": "Shopify.theme-check-vscode",
+		},
+		"i18n-ally.localesPaths": [
+			"node_modules/@shopify/polaris/locales"
+		],
+		"i18n-ally.enabledFrameworks": [
+			"i18next-shopify"
+		],
+		"i18n-ally.keystyle": "nested",
+	}

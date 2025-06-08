@@ -3,7 +3,7 @@
 client_id = "a220c8af5be3c6ce083761de3d6930e4"
 name = "my-new-awesome-app"
 handle = "my-new-awesome-app-306"
-application_url = "https://ship-too-acre-centers.trycloudflare.com"
+application_url = "https://book-acquired-construct-earn.trycloudflare.com"
 embedded = true
 
 [build]
@@ -27,9 +27,9 @@ scopes = "write_products"
 
 [auth]
 redirect_urls = [
-  "https://ship-too-acre-centers.trycloudflare.com/auth/callback",
-  "https://ship-too-acre-centers.trycloudflare.com/auth/shopify/callback",
-  "https://ship-too-acre-centers.trycloudflare.com/api/auth/callback"
+  "https://book-acquired-construct-earn.trycloudflare.com/auth/callback",
+  "https://book-acquired-construct-earn.trycloudflare.com/auth/shopify/callback",
+  "https://book-acquired-construct-earn.trycloudflare.com/api/auth/callback"
 ]
 
 [pos]
